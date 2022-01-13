@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## K2XP
 
 You can use the [editor on GitHub](https://github.com/k2xp/ProfilePage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
